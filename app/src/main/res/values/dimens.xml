@@ -22,4 +22,26 @@
     <dimen name="textsize_title_addalarm">20dp</dimen>
 
 
+
+
+
+
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+
+
+
+
+    <dimen name="text_time_alarm">40dp</dimen>
+    <dimen name="text_size_clock">24dp</dimen>
+
+
+
+    <dimen name="padding_setting">10dp</dimen>
+    <dimen name="padding_icon_button_setting">20dp</dimen>
+
+
+    <dimen name="text_medium_default">24dp</dimen>
+
+
 </resources>
