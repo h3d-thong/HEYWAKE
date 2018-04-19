@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="walk_through_image_width">300dp</dimen>
+    <dimen name="walk_throught_text_size">35dp</dimen>
+    <dimen name="walk_throught_margin_top">20dp</dimen>
+    <dimen name="walk_throught_margin_bottom">24dp</dimen>
+    <dimen name="walk_throught_padding">20dp</dimen>
+
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="margin_top_cardview">8dp</dimen>
+    <dimen name="margin_left_right_cardview">8dp</dimen>
+    <dimen name="textsize_title_addalarm">20dp</dimen>
+
+
+</resources>

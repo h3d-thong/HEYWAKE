@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    >
+
+    <LinearLayout
+        android:background="@drawable/bg_round_dialog"
+        android:gravity="center_horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shake_number"
+            android:textColor="@color/colorPrimary"
+            android:layout_gravity="center"
+            android:textSize="@dimen/slide_title"
+
+            />
+        <NumberPicker
+            android:id="@+id/numberPickerCount"
+            android:layout_marginTop="@dimen/walk_throught_margin_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </NumberPicker>
+        <Button
+
+            android:id="@+id/buttonOk"
+            android:background="@color/colorPrimary"
+            android:layout_marginTop="@dimen/walk_throught_margin_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:padding="@dimen/walk_throught_padding"
+            android:text="@string/OK"/>
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

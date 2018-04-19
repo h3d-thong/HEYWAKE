@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HeyWakeAlarm</string>
+    <string name="title_home">Báo thức</string>
+    <string name="title_dashboard">Tin tức</string>
+    <string name="title_notifications">Demo</string>
+    <string name="title_settings">Cài đặt</string>
+    <string name="save">Lưu</string>
+
+
+    <string name="OK">OK</string>
+    <string name="cancle">Huỷ</string>
+
+    <string name="way_to_turn_off">Cách tắt báo thức</string>
+    <string name="default_way">Mặc định</string>
+    <string name="repeate">Lặp lại</string>
+    <string name="not_repeate">Không</string>
+    <string name="turn_vibrate_on">Rung khi báo thức</string>
+    <string name="alarm_title">Nhãn báo thức</string>
+    <string name="ring_tone">Nhạc chuông</string>
+    <string name="default_ring_tone">Mặc định</string>
+
+    <string name="chooseTune">Chọn nhạc chuông</string>
+    <string name="choose_mode">Chọn cách tắt</string>
+    <string name="shake_number">Số lần lắc</string>
+    <string name="shake">Lắc để tắt</string>
+    <string name="dafault">Mặc đinh</string>
+    <string name="task_memory">Game lật ô</string>
+    <string name="count_number">Game đếm số</string>
+    <string name="repeate_title">Chọn ngày lặp lại</string>
+    <string name="noti_after_select_mode">Bạn đã chọn cách tắt </string>
+</resources>
